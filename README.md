@@ -1,5 +1,5 @@
 # Movie Database
-### A movie database with information such as year of release, imdb rating, and overview. Built using ReactJS and OMDB API.
+### A movie database with information such as year of release, imdb rating, and overview. Built using ReactJS and OMDB API. Deployed on [Netlify](https://movie-db-ql.netlify.app/)
 Followed Tyler Potts YouTube tutorial.
 
 ## Screenshots
