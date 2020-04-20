@@ -1,3 +1,16 @@
+# Movie Database
+### A movie database with information such as year of release, imdb rating, and overview. Built using ReactJS and OMDB API.
+Followed Tyler Potts YouTube tutorial.
+
+## Screenshots
+
+### Home Page
+![home](https://github.com/QuintonEL/MovieDB/blob/master/docs/home.png?raw=true)
+### Search Results
+![search](https://github.com/QuintonEL/MovieDB/blob/master/docs/search.png?raw=true)
+### Movie Details
+![details](https://github.com/QuintonEL/MovieDB/blob/master/docs/details.png?raw=true)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
